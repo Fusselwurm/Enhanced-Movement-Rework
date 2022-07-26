@@ -9,7 +9,7 @@
         <Key ID="STR_EMR_Main_Keybind_AIOAction">
             <English>All-in-one action</English>
             <Japanese>全ての動作を行う</Japanese>
-            <German>Option für alles in einem</German>
+            <German>Alle Aktionen</German>
         </Key>
         <Key ID="STR_EMR_Main_Keybind_ClimbDropOnly">
             <English>Climb/drop only</English>
@@ -29,12 +29,12 @@
         <Key ID="STR_EMR_Main_Keybind_Assist">
             <English>Assist</English>
             <Japanese>アシストする</Japanese>
-            <German>Unterstützen</German>
+            <German>Räuberleiter</German>
         </Key>
         <Key ID="STR_EMR_Main_SettingCategory_Core">
             <English>Core</English>
             <Japanese>基礎設定</Japanese>
-            <German>Core</German>
+            <German>Grundlegendes</German>
         </Key>
         <Key ID="STR_EMR_Main_SettingCategory_Preferences">
             <English>Preferences</English>
@@ -59,7 +59,7 @@
         <Key ID="STR_EMR_Main_SettingDescription_climbingEnabled">
             <English>Global toggle for climbing and dropping actions</English>
             <Japanese>よじ登ったり、とび降りたりするアクションを可能にします。</Japanese>
-            <German>Globale Einstellung zum Klettern und Fallenlassen</German>
+            <German>Klettern / Fallenlassen Aktivierung an/ausschalten</German>
         </Key>
         <Key ID="STR_EMR_Main_SettingDisplayName_jumpingEnabled">
             <English>Enable jumping</English>
